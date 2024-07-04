@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCardProjesi", "VCardProjesi\VCardProjesi.csproj", "{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E65D5DB-EF6F-4F35-B99B-0278D50CC3D5}
+	EndGlobalSection
+EndGlobal

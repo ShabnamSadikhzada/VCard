@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Amélie;Leroux
+EMAIL  :  amelie.leroux@example.com
+TEL    :  02-41-08-48-68
+ADR    :  Courbevoie;France
+END    :  VCARD
