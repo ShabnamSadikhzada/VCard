@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Howard;Bell
+EMAIL  :  howard.bell@example.com
+TEL    :  (865) 844-7104
+ADR    :  Waxahachie;United States
+END    :  VCARD

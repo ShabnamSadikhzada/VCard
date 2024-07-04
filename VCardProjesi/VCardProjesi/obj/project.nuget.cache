@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fh/oyf6XYJnJEQd7EfBak7V9A5Snb4bO+Y4CS5UwX7HCU0vI5aEYpfT0NM7W71mqkt+AtJkTWJat6JADM/dIqg==",
+  "dgSpecHash": "/0cE43A84fZV0js3HfF/2CrbGY7cE4oQxTx2S85Ivfnb+ELFPwFtWhjU2ulHxWe96sbfpAmivUKDtLxQXvw9zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\lab\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
+  "projectFilePath": "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\vcard\\VCard\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alicavad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Alicavad\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",

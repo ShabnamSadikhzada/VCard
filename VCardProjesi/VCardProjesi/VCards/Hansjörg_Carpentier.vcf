@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Carpentier;Hansjörg;;;
+EMAIL  :  hansjorg.carpentier@example.com
+TEL    :  075 899 22 86
+ADR    :  ;;Zollikon;;Switzerland
+END    :  VCARD

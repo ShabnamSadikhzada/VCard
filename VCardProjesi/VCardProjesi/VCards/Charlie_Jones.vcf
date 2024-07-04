@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:4.0
+N: Jones;Charlie;;;
+EMAIL:         charlie.jones@example.com
+TEL :(018)-651-3669
+ADR :;;Christchurch;;New Zealand
+END:VCARD

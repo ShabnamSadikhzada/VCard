@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Vladana;Nemanjić;;;
+EMAIL  :  vladana.nemanjic@example.com
+TEL    :  033-4204-180
+ADR    :  ;;Novi Sad;;Serbia
+END    :  VCARD

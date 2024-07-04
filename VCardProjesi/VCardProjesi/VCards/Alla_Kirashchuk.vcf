@@ -1,0 +1,7 @@
+BEGIN   :VCARD
+VERSION :3.0
+N       :Kirashchuk;Alla;;;
+EMAIL   :alla.kirashchuk@example.com
+TEL     :(066) A05-6740
+ADR     :;;Shpola;;Ukraine
+END     :VCARD

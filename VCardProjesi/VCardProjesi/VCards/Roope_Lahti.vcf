@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  4.0
+N      :  Roope;Lahti;;;
+EMAIL  :  roope.lahti@example.com
+TEL    :  06-960-879
+ADR :  Haukipudas;Finland
+END:  VCARD

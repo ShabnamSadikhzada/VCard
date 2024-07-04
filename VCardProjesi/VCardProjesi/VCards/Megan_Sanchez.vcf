@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Megan;Sanchez
+EMAIL  :  megan.sanchez@example.com
+TEL    :  02-3631-1192
+ADR    :  ;;Warrnambool;;Australia
+END    :  VCARD

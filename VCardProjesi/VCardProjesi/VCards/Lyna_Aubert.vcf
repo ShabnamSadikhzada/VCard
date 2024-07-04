@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  4.0
+N      :  Aubert;Lyna;;;
+EMAIL  :  lyna.aubert@example.com
+TEL    :  01-10-09-04-71
+ADR :  ;Bordeaux;France
+END    :  VCARD

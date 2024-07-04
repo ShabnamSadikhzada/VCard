@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:4.0
+N: Alvarez;Alex;;;
+EMAIL:         alex.alvarez@example.com
+TEL :022 4181 4923
+ADR :Stoke-on-Trent;;United Kingdom
+END:VCARD

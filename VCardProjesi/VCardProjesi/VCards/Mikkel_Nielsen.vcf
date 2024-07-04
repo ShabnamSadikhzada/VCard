@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N: Nielsen;Mikkel;;;
+EMAIL:         mikkel.nielsen@example.com
+TEL :49275180
+ADR :Brøndby Strand;;Denmark
+END:VCARD

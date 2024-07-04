@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Edgar;Warren
+EMAIL  :  edgar.warren@example.com
+TEL    :  017683 43977
+ADR    :  ;;Bradford;;United Kingdom
+END    :  VCARD

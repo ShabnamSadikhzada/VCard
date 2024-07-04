@@ -1,0 +1,31 @@
+BEGIN:VCARD
+
+VERSION:4.0
+
+N:Gump;Forrest;;;
+
+FN:Gozal Alizada
+
+ORG:Alizada.
+
+TITLE:Web dev
+
+PHOTO;MEDIATYPE=https://i.pinimg.com/236x/c7/d5/db/c7d5dbc7716eba0c3f12a36f9d078579.jpg
+
+TEL;TYPE=work,voice;VALUE=uri:tel:994-51-653-67-43
+
+TEL;TYPE=home,voice;VALUE=uri:tel:994-51-653-67-43
+
+ADR;TYPE=work;LABEL="100 Waters Edge\nBaytown, LA 30314\nUnited States of America"
+
+  :;;100 Waters Edge;Baytown;LA;30314;United States of America
+
+ADR;TYPE=home;LABEL="42 Plantation St.\nBaytown, LA 30314\nUnited States of America"
+
+ :;;42 Plantation St.;Baytown;LA;30314;United States of America
+
+EMAIL:elizadegozel@gmail.com
+
+REV:20080424T195243Z
+
+END:VCARD

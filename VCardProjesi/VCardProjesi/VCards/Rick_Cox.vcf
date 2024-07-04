@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Cox;Rick;;;
+EMAIL  :  rick.cox@example.com
+TEL    :  013873 11232
+ADR    :  ;;Gloucester;;United Kingdom
+END    :  VCARD

@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Julia;Vincent
+EMAIL  :  julia.vincent@example.com
+TEL    :  02-41-35-67-40
+ADR    :  Nancy;France
+END    :  VCARD

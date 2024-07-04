@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}|VCardProjesi\\VCardProjesi.csproj|c:\\users\\shabnamjs\\desktop\\lab\\vcardprojesi\\vcardprojesi\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}|VCardProjesi\\VCardProjesi.csproj|solutionrelative:vcardprojesi\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}|VCardProjesi\\VCardProjesi.csproj|c:\\users\\shabnamjs\\desktop\\lab\\vcardprojesi\\vcardprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BBF3FE-6CC6-4089-9FD9-4F1DC880D69B}|VCardProjesi\\VCardProjesi.csproj|solutionrelative:vcardprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VCard.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\VCardProjesi\\Models\\VCard.cs",
+              "RelativeDocumentMoniker": "VCardProjesi\\Models\\VCard.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\VCardProjesi\\Models\\VCard.cs",
+              "RelativeToolTip": "VCardProjesi\\Models\\VCard.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:01:42.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\VCardProjesi\\Program.cs",
+              "RelativeDocumentMoniker": "VCardProjesi\\Program.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\Desktop\\Lab\\VCardProjesi\\VCardProjesi\\Program.cs",
+              "RelativeToolTip": "VCardProjesi\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:01:42.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

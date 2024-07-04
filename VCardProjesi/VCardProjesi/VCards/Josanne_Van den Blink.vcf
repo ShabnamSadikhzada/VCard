@@ -1,0 +1,7 @@
+BEGIN   :VCARD
+VERSION :3.0
+N       :Van den Blink;Josanne;;;
+EMAIL   :josanne.vandenblink@example.com
+TEL     :(0635) 832256
+ADR     :;;Ransdorp;;Netherlands
+END     :VCARD

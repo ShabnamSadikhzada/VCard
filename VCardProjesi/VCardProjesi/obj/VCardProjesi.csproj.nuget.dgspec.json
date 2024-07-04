@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\lab\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj": {}
+    "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\vcard\\VCard\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\lab\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj": {
+    "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\vcard\\VCard\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\lab\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
+        "projectUniqueName": "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\vcard\\VCard\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
         "projectName": "VCardProjesi",
-        "projectPath": "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\lab\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
+        "projectPath": "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\vcard\\VCard\\VCardProjesi\\VCardProjesi\\VCardProjesi.csproj",
         "packagesPath": "C:\\Users\\Alicavad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\lab\\VCardProjesi\\VCardProjesi\\obj\\",
+        "outputPath": "C:\\Users\\Alicavad\\Desktop\\Shabnam\\CodeAcademy\\vcard\\VCard\\VCardProjesi\\VCardProjesi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alicavad\\AppData\\Roaming\\NuGet\\NuGet.Config",

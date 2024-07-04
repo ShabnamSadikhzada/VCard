@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Philippe;Romain;;;
+EMAIL:romain.philippe@example.com
+TEL :01-08-99-67-14
+ADR :;;Courbevoie;;France
+END:VCARD

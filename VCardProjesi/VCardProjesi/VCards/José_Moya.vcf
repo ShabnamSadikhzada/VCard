@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:4.0
+N: Moya;José;;;
+EMAIL:         jose.moya@example.com
+TEL :906-356-229
+ADR :Zaragoza;;Spain
+END:VCARD

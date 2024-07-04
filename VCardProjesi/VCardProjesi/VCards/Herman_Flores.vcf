@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Herman;Flores
+EMAIL  :  herman.flores@example.com
+TEL    :  03-5794-2840
+ADR    :  ;;Bendigo;;Australia
+END    :  VCARD

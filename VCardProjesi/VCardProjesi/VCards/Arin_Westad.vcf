@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Westad;Arin;;;
+EMAIL  :  arin.westad@example.com
+TEL    :  21556351
+ADR    :  ;;Brekkeåsen;;Norway
+END    :  VCARD

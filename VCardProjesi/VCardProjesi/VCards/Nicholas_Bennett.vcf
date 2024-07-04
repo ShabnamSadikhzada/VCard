@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Bennett;Bennett;;;
+EMAIL  :  nicholas.bennett@example.com
+TEL    :  071-676-4468
+ADR    :  ;;Buncrana;;Ireland
+END    :  VCARD

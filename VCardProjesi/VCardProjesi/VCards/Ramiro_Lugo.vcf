@@ -1,0 +1,7 @@
+BEGIN  :  VCARD
+VERSION:  3.0
+N      :  Lugo;Ramiro;;;
+EMAIL  :  ramiro.lugo@example.com
+TEL    :  (673) 370 3736
+ADR    :  ;;Isla;;Mexico
+END    :  VCARD

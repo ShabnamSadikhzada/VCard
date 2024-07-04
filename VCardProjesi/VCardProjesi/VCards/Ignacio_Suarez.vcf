@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:4.0
+N: Suarez;Ignacio;;;
+EMAIL:         ignacio.suarez@example.com
+TEL :933-688-100
+ADR :;;Córdoba;;Spain
+END:VCARD
